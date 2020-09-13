@@ -1,6 +1,6 @@
 function writeCards(names,event){
   for(let i=0;i<names.length;i++){
-    names[i] = `Thank you, ${names[i]}, for the wonderful birthday gift!`; 
+    names[i] = `Thank you, ${names[i]}, for the surprise birthday gift!`; 
   }
   return names;
 }
