@@ -1,6 +1,7 @@
 function writeCards(names){
-  while(names>=0){
-    return console.log(names)
+   i = 0
+  while(i<=names.length){
+    return console.log(names[i])
     names--
   }
 }
