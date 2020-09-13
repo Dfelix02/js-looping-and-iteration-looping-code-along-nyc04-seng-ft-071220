@@ -1,7 +1,6 @@
 function writeCards(names,event){
   for(i=0;i<names.length;i++){
-    return console.log(names[i])
-    i++
+  console.log(`Wrapped ${names[i]} and added a bow!`); 
   }
 }
 
