@@ -1,7 +1,7 @@
 function writeCards(names){
-  while(num>=0){
-    return console.log(num)
-    num--
+  while(names>=0){
+    return console.log(names)
+    names--
   }
 }
 
