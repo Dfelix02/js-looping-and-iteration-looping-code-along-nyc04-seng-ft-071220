@@ -1,4 +1,4 @@
-function writeCards(names){
+function writeCards(names[]){
   let i = 0
   while(i<=names.length){
     return console.log(names[i])
