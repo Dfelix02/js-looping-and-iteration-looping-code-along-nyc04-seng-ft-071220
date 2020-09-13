@@ -3,7 +3,7 @@ function writeCards(names,event){
     console.log (`Thank you, ${names[i]}, for the wonderful surprise gift!`);
     //names[i] = `Thank you, ${names[i]}, for the wonderful surprise gift!`; 
   }
-  return names;
+  //return names;
 }
 
 
