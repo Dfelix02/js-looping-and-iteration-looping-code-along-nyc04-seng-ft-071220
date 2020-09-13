@@ -1,5 +1,8 @@
 function writeCards(names){
-  
+  while(num>=0){
+    return console.log(num)
+    num--
+  }
 }
 
 
@@ -7,5 +10,6 @@ function writeCards(names){
 function countDown(num){
   while(num>=0){
     return console.log(num)
+    num--
   }
 }
